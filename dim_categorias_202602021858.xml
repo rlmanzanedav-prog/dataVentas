@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dim_categorias>
+  <DATA_RECORD>
+    <id_categoria>1</id_categoria>
+    <nombre_categoria>Beverages</nombre_categoria>
+    <descripcion>Soft drinks, coffees, teas, beers, and ales</descripcion>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id_categoria>2</id_categoria>
+    <nombre_categoria>Condiments</nombre_categoria>
+    <descripcion>Sweet and savory sauces, relishes, spreads, and seasonings</descripcion>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id_categoria>3</id_categoria>
+    <nombre_categoria>Confections</nombre_categoria>
+    <descripcion>Desserts, candies, and sweet breads</descripcion>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id_categoria>4</id_categoria>
+    <nombre_categoria>Dairy Productos</nombre_categoria>
+    <descripcion>Cheeses</descripcion>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id_categoria>5</id_categoria>
+    <nombre_categoria>Grains/Cereals</nombre_categoria>
+    <descripcion>Breads, crackers, pasta, and cereal</descripcion>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id_categoria>6</id_categoria>
+    <nombre_categoria>Meat/Poultry</nombre_categoria>
+    <descripcion>Prepared meats</descripcion>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id_categoria>7</id_categoria>
+    <nombre_categoria>Produce</nombre_categoria>
+    <descripcion>Dried fruit and bean curd</descripcion>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id_categoria>8</id_categoria>
+    <nombre_categoria>Seafood</nombre_categoria>
+    <descripcion>Seaweed and fish</descripcion>
+  </DATA_RECORD>
+</dim_categorias>
